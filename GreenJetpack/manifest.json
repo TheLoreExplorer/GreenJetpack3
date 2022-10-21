@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "GreenJetpack.dll",
+  "author": "TheLoreExplorer",
+  "name": "Green Jetpack",
+  "uniqueName": "TheLoreExplorer.GreenJetpack",
+  "version": "0.2.0",
+  "owmlVersion": "2.7.2",
+  "dependencies": []
+}
